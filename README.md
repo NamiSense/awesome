@@ -7,11 +7,9 @@
 
 # Nami awesome
 
----
-
 > The collection of examples for model integration
 
 ## Contents
 
-- [Janpanese realtime transcription](/examples/000jrt): Connect the WebSocket client to send files and receive the returned results.
-
+- [Janpanese realtime transcription](/examples/000jrt): Connect the WebSocket client to send files and receive the
+  returned results.
