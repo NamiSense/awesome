@@ -13,3 +13,5 @@
 
 - [Janpanese realtime transcription](/examples/000jrt): Connect the WebSocket client to send files and receive the
   returned results.
+- [Vietnamese text to speech](/examples/001vtts): Connect the queue to send text and receive the returned audio
+  file.
