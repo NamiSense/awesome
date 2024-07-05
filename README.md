@@ -15,3 +15,7 @@
   returned results.
 - [Vietnamese text to speech](/examples/001vtts): Connect the queue to send text and receive the returned audio
   file.
+- [Japanese long audio transcription](/examples/002jlat): Transcript the long audio file by sending the file to sqs
+  queue.
+- [Vietnamese long audio transcription](): Soon
+- [Vietnamese realtime transcription](): Soon
