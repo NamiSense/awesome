@@ -14,6 +14,8 @@
 }
 ```
 
+`Note`: Using mono channel audio
+
 - Response
 
 ```json
