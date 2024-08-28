@@ -57,6 +57,6 @@
 
 ```bash
 pip install -r requirements.txt
-python receive.py
-python send.py
+python rmq_receive.py
+python rmq_send.py
 ```

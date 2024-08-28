@@ -42,6 +42,6 @@ Using rabbitmq client to send text to speech request to a remote server, then re
 
 ```bash
 pip install -r requirements.txt
-python receive.py
-python send.py
+python rmq_receive.py
+python rmq_send.py
 ```
