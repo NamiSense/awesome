@@ -9,7 +9,7 @@
   "id": "task_id",
   "type": "analysis",
   "url": "url to download the audio file",
-  "lang": "jp",
+  "lang": "ja",
   "num_speakers": 2
 }
 ```
