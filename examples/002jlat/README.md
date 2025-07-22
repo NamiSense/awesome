@@ -34,8 +34,6 @@ Json result itself going to have value like below:
       "end": 5.87,
       "transcript": "こちら",
       "transcript_norm": "こちら。",
-      "snr_result": false,
-      "snr_score": -24.87,
       "words": [],
       "label": "01",
       "conf_avg": 0
@@ -46,8 +44,6 @@ Json result itself going to have value like below:
       "end": 28.01,
       "transcript": "生のテキスト",
       "transcript_norm": "標準テキスト。",
-      "snr_result": true,
-      "snr_score": 17.9,
       "words": [],
       "label": "01",
       "conf_avg": 0
