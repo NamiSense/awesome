@@ -10,7 +10,7 @@
   "type": "analysis",
   "url": "url to download the audio file",
   "lang": "ja",
-  "num_speaker": 2
+  "number_speaker": 2
 }
 ```
 
